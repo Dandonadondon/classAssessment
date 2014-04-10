@@ -1,0 +1,66 @@
+![Arrow Media PHP Development](slideshow/php-development-slide_6.jpg "Arrow Media PHP Development")
+![Arrow Media PHP Development](slideshow/php-development-slide_2.jpg "Arrow Media PHP Development")
+![Arrow Media PHP Development](slideshow/php-development-slide_3.jpg "Arrow Media PHP Development")
+
+##Technologies##
+###Production Environments###
+- Linux (Ubuntu, CentOS/Redhat)
+- AMPP (Apache, MySQL, PHP and Perl)
+- MongoDB
+- NodeJS
+- Nova (OpenStack)
+- PHPUnit (TDD)
+- Behat / Mint (BDD)
+- Jenkins / Hudson (CI)
+
+###Server-side Languages###
+- PHP5 current development
+- PHP4 legacy development
+
+###Front-end Languages###
+-  HTML Version 5 Development
+- XHTML Legacy
+- CSS
+- LESS preprocessing
+- SASS preprocessing
+- ECMAScript
+- Coffee Script
+- jQuery
+- Smarty
+- Sencha
+- Twitter Bootstrap
+- Zurb Foundation
+
+![AJAX](technology-1-1.png "AJAX")
+![Backbone JS](technology-1-2.png "Backbone JS")
+![jQuery](technology-1-3.png "jQuery")
+![Sencha](technology-1-4.png "Sencha")
+![Git](technology-1-7.png "Git")
+![MySQL](technology-2-8.png "MySQL")
+
+###Content Management System###
+- Drupal
+- Wordpress
+- Modx
+
+###E-Commerce Solutions###
+- Magento
+- OSCommerce
+- PayPal integration
+- CardSave and other gateway integrations
+
+###Business Logic###
+- Zend Framework
+- Laravel / Artisan
+- CodeIgniter
+- Pear
+- Composer
+- Compass
+- Phalcon
+
+![TWIG](technology-2-1.png "TWIG")
+![Zend Framework](technology-2-2.png "Zend Framework")
+![Symfonyy](technology-2-3.png "Symfony")
+![CodeIgniter](technology-2-4.png "CodeIgniter")
+![MongoDB](technology-2-7.png "MongoDB")
+![SQLite](technology-2-9.png "SQLite")

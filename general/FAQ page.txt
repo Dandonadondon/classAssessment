@@ -1,0 +1,12 @@
+![Arrow Media PHP Development](slideshow/php-development-slide_3.jpg "Arrow Media PHP Development")
+![Arrow Media PHP Development](slideshow/php-development-slide_5.jpg "Arrow Media PHP Development")
+![Arrow Media PHP Development](slideshow/php-development-slide_2.jpg "Arrow Media PHP Development")
+
+## Asked Questions##
+###[What happens in the initial stages of a project?](show_answer)###
+###[How often will information about the projects progress be discussed?](show_answer)###
+###[Who do we contact within the company if we have a question?](show_answer)###
+###[How much does a typical project cost?](show_answer)###
+###[How long does a typical project take to complete?](show_answer)###
+###[What are the payment terms?](show_answer)###
+###[What happens after the project is completed?](show_answer)###
